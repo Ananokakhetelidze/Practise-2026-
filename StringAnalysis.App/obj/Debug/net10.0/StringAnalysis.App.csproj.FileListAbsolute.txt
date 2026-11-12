@@ -1,0 +1,14 @@
+C:\Users\a.kakhetelidze\Desktop\First\StringAnalysis.App\bin\Debug\net10.0\StringAnalysis.App.exe
+C:\Users\a.kakhetelidze\Desktop\First\StringAnalysis.App\bin\Debug\net10.0\StringAnalysis.App.deps.json
+C:\Users\a.kakhetelidze\Desktop\First\StringAnalysis.App\bin\Debug\net10.0\StringAnalysis.App.runtimeconfig.json
+C:\Users\a.kakhetelidze\Desktop\First\StringAnalysis.App\bin\Debug\net10.0\StringAnalysis.App.dll
+C:\Users\a.kakhetelidze\Desktop\First\StringAnalysis.App\bin\Debug\net10.0\StringAnalysis.App.pdb
+C:\Users\a.kakhetelidze\Desktop\First\StringAnalysis.App\obj\Debug\net10.0\StringAnalysis.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.kakhetelidze\Desktop\First\StringAnalysis.App\obj\Debug\net10.0\StringAnalysis.App.AssemblyInfoInputs.cache
+C:\Users\a.kakhetelidze\Desktop\First\StringAnalysis.App\obj\Debug\net10.0\StringAnalysis.App.AssemblyInfo.cs
+C:\Users\a.kakhetelidze\Desktop\First\StringAnalysis.App\obj\Debug\net10.0\StringAnalysis.App.csproj.CoreCompileInputs.cache
+C:\Users\a.kakhetelidze\Desktop\First\StringAnalysis.App\obj\Debug\net10.0\StringAnalysis.App.dll
+C:\Users\a.kakhetelidze\Desktop\First\StringAnalysis.App\obj\Debug\net10.0\refint\StringAnalysis.App.dll
+C:\Users\a.kakhetelidze\Desktop\First\StringAnalysis.App\obj\Debug\net10.0\StringAnalysis.App.pdb
+C:\Users\a.kakhetelidze\Desktop\First\StringAnalysis.App\obj\Debug\net10.0\StringAnalysis.App.genruntimeconfig.cache
+C:\Users\a.kakhetelidze\Desktop\First\StringAnalysis.App\obj\Debug\net10.0\ref\StringAnalysis.App.dll
